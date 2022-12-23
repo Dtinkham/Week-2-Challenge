@@ -1,0 +1,15 @@
+body {
+   display: flex wrap;
+   
+}
+
+header {
+    
+}
+
+section{
+    display:block;
+    padding: solid green 100px;
+    margin: 0 auto; 
+    border: 5px;
+}
