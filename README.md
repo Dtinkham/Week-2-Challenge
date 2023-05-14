@@ -1,2 +1,8 @@
-# Week-2-Challenge
-Week 2 Challenge focusing on Advanced CSS
+CSS Portfolio Project
+
+Description: A simple portfolio page created with HTML and CSS used to display projects created in the Bootcamp course.  The images in the project page can be clicked on to check out the displayed projects and the github icon will bring you to my GitHub page.  
+
+ScreenShot: 
+<img src='Assests/Screenshot.jpg'>
+
+Link: 
